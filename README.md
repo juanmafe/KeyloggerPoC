@@ -25,3 +25,6 @@ When starting the script, five options and a selector will appear:
 <b>Regenerate Credentials:</b> It will regenerate the passwords if another application has been used to collect the logs.
 
 <b>Exit:</b> Exit the script.
+
+
+![UML image](uml.png)
