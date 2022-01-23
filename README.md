@@ -1,6 +1,13 @@
 # EIP Keylogger Proof of Concept
 Proof of concept of a keylogger for cibersecurity educational purposes only, <a href="https://eiposgrados.com/programas/master-en-ciberseguridad/">@eiposgrados</a>.
 
+# Requirements
+Pick and pynput utilities are required.
+```
+pip install pick
+pip install pynput
+```
+# Options
 When starting the script, five options and a selector will appear:
 ```
 +--------------------------------------------------------------+
