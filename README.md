@@ -27,4 +27,4 @@ When starting the script, five options and a selector will appear:
 <b>Exit:</b> Exit the script.
 
 
-![UML image](uml.png)
+![UML image](uml.jpg)
